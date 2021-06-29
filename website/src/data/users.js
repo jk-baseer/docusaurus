@@ -1080,6 +1080,14 @@ const Users = [
     tags: ['opensource'],
   },
   {
+    title: 'Tradly Platform',
+    description: 'Headless Commerce Platform to launch commerce and marketplace apps in weeks',
+    preview: require('./showcase/tradly.png'),
+    website: 'https://tradly.app/',
+    source: 'https://github.com/TRADLY-PLATFORM/puffin',
+    tags: ['product'],
+  },
+  {
     title: 'Tuist',
     description: 'A tool to maintain and interact with Xcode projects at scale',
     preview: require('./showcase/tuist.png'),
